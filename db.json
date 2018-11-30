@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "civilite": "Femme",
+      "firstName": "River",
+      "lastName": "Song",
+      "mail": "river.song@tardis.io",
+      "phone": "+33 1 23 45 67 89",
+      "framework": "0"
+    },
+    {
+      "civilité": "femme",
+      "firstName": "toto",
+      "lastName": "plop",
+      "mail": "oiojioj",
+      "phone": "oiiojoijo",
+      "framework": "1",
+      "id": "2"
+    },
+    {
+      "id": "jL9QwS~",
+      "civilite": null,
+      "firstName": "zafebkjbk",
+      "lastName": "jkjbjbjkb",
+      "email": "jbjkbjkbjkb",
+      "phone": "jbjbkb",
+      "framework": null,
+      "ohter": null
+    },
+    {
+      "id": "TE0zVs1",
+      "civilite": null,
+      "firstName": "jknjknnjknk",
+      "lastName": "jnjknkjnjkn",
+      "email": "kjnjknkjnkjnjkn",
+      "phone": null,
+      "framework": null,
+      "ohter": null
+    },
+    {
+      "id": "02vNAK6",
+      "civilite": null,
+      "firstName": "ninio",
+      "lastName": "nionoi",
+      "email": "nionoin",
+      "phone": null,
+      "framework": null,
+      "ohter": null
+    },
+    {
+      "id": "nMvMkSM",
+      "civilite": null,
+      "firstName": "knkl",
+      "lastName": "nkln",
+      "email": "klnklnlkn",
+      "phone": null,
+      "framework": null,
+      "ohter": null
+    },
+    {
+      "id": "5dEz85D",
+      "civilite": null,
+      "firstName": "knjn",
+      "lastName": "jkjn",
+      "email": "jknkjn@gmail.com",
+      "phone": "00 00 00 00 00",
+      "framework": "1",
+      "ohter": null
+    }
+  ]
+}
